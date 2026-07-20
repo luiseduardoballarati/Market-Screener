@@ -1,0 +1,9 @@
+pandas>=2.0
+yfinance>=0.2.40
+python-dotenv>=1.0
+
+# Parquet cache
+pyarrow>=15.0
+
+# Optional: only needed if you use SendGrid instead of SMTP
+sendgrid>=6.11
